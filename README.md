@@ -1,1 +1,1 @@
-# fintechbootcamp
+# fintech-bootcamp
